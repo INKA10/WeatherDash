@@ -1,0 +1,22 @@
+#titleBar{
+    font-size: 40px;
+    color: #f8f9fa;
+    width: auto;
+    height: 70px;
+}
+
+body{
+    margin-top: 78px;
+}
+
+#currentWeather{
+    width: auto;
+}
+
+#divider{
+    border-bottom: 3px solid #f8f9fa;
+}
+
+.card{
+    width: 100%;
+}
