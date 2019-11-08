@@ -7,7 +7,7 @@ As a traveveler, people want to see how the weather in the current or local area
 
 ## Searching a Location
 
-
+![](ScreenShots/LocalWeather.png)
 
 # Links
 GitHub Repo: https://github.com/INKA10/WeatherDash
