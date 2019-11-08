@@ -9,6 +9,8 @@ As a traveveler, people want to see how the weather in the current or local area
 
 ![](ScreenShots/LocalWeather.png)
 
-# Links
-GitHub Repo: https://github.com/INKA10/WeatherDash
-Live Pages: https://inka10.github.io/WeatherDash/
+# GitHub Repo: 
+https://github.com/INKA10/WeatherDash
+
+# Live Pages: 
+https://inka10.github.io/WeatherDash/
